@@ -1,6 +1,5 @@
 # How to add "Show All" option to per page in resource - laravel nova 4
 
----
 
 ![screenshot](preview.gif)
 
@@ -164,3 +163,11 @@
 
 ## Credit:
 * [mPhpMaster](https://github.com/mPhpMaster)
+
+## License
+
+This repo is open-sourced software licensed under the [MIT license](https://github.com/mPhpMaster/laravel-nova-add-show-all-results/blob/master/LICENSE).
+
+***
+
+## Stand with Palestine 🇵🇸 <i>#FreePalestine</i>
